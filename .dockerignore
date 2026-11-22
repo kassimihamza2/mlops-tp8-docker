@@ -1,0 +1,5 @@
+.venv
+data
+__pycache__
+.git
+fraude-api-1.0.tar
